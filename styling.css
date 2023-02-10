@@ -8,7 +8,7 @@
 }
 
 h1 {
-  background-image: url("Images/519.jpg");
+  background-image: url("https://github.com/zrehan12/zrehan12.github.io/blob/main/519.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   color: rgb(210, 210, 210);
@@ -118,13 +118,13 @@ p {
   overflow: auto;
 }
 .imag {
-  background-image: url("Images/OIP.jpg");
+  background-image: url("https://github.com/zrehan12/zrehan12.github.io/blob/main/OIP.jpg");
 }
 .imag1 {
-  background-image: url("Images/loitta_shutki.JPG");
+  background-image: url("https://github.com/zrehan12/zrehan12.github.io/blob/main/loitta_shutki.JPG");
 }
 .imag2 {
-  background-image: url("Images/pud.jpg");
+  background-image: url("https://github.com/zrehan12/zrehan12.github.io/blob/main/pud.jpg");
 }
 .button,
 .button2,
@@ -134,7 +134,7 @@ p {
   width: 26%;
   height: 300px;
   background-color: rgba(64, 64, 66, 0.42);
-  background-image: url("Images/OIP.jpg");
+  background-image: url("https://github.com/zrehan12/zrehan12.github.io/blob/main/OIP.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -145,10 +145,10 @@ p {
   float: left;
 }
 .button2 {
-  background-image: url("/images/loitta_shutki.JPG");
+  background-image: url("https://github.com/zrehan12/zrehan12.github.io/blob/main/loitta_shutki.JPG");
 }
 .button3 {
-  background-image: url("/images/pud.jpg");
+  background-image: url("https://github.com/zrehan12/zrehan12.github.io/blob/main/pud.jpg");
 }
 .button:hover,
 .button2:hover,
@@ -454,7 +454,7 @@ input[type="checkbox"] {
       #f77638 70%,
       #fec66d 100%
     );
-  /* yeah I stole this part from stackoverflow. Sue me */
+  /* yeah I stole this part from stackoverflow sue me */
   color: white;
   padding: 8px;
 }
